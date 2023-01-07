@@ -20,7 +20,7 @@
     require 'vendor/autoload.php';
     require 'config.php';?>
     <ul>
-        <li><a class="nav-items"  href="index.php"><i class="fa-solid fa-house">&nbsp;</i>Home</a></li>
+        <li><a class="nav-items"  href="index.html"><i class="fa-solid fa-house">&nbsp;</i>Home</a></li>
         <li><a class="nav-items" href="index1.php">View Items<i class="fa-solid fa-angle-right icon"></i></a></li>
    </ul>
     <div id="thank-you-message"><p>OTP has been verified. Thank you for publishing the item. Redirecting you to items page in few seconds.....</p></div>
